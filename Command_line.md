@@ -10,6 +10,31 @@ First, let's compare the command line (or command prompt) to a terminal and a sh
  My terminal: **iTerm**
  My shell: **Z shell**
  
+ ## Cheatsheet
+ 
+
+	* = wildcard, joker			
+	ls = list
+	cat = show
+	mv = move
+	cp = copy
+	echo = add content
+		> = overwrites
+		>> = combines
+	touch = create empty file
+	cd = change directory
+	mkdir = make directory
+	man = manual (+command) 
+	diff = show differences
+	rm = delete 
+		 -rf = delete all (content too)
+	clear 
+	exit
+
+TROUBLE?!
+
+	ctrl + c
+ 
  
 
 
