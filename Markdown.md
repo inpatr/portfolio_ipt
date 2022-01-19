@@ -47,9 +47,18 @@ Or sorted:
 2. item 2
 1. item 3
 
+Your text can be 
+
+	*italic*
+*italic*
+or
+
+	**bold**
+**bold**
+
 
 
 
 --------
-[1] John Gruber https://daringfireball.net/projects/markdown/syntax#overview 
+[1] John Gruber: https://daringfireball.net/projects/markdown/syntax#overview
 
